@@ -1,4 +1,4 @@
-# Amazon-Sales
+# Amazon-Sales-Analysis
 # Amazon Sales - Clean, EDA
 # OBJECTIVE:
 To Understand how was the Sales of different Items.

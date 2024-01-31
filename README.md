@@ -18,5 +18,5 @@ E-commerce
 PYTHON
 
 # TOOLS:
-Jupyter Notebook, Power BI, MS Excel
+Jupyter Notebook, MS Excel
 
